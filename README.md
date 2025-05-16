@@ -102,5 +102,7 @@ example use jojo@jojo.com password P@ssw0rd to access Coursers
 use admin@admin.com password P@ssw0rd to access Companies
 ---
 
-## License
-MIT
+
+## Contact
+
+Created with ❤️ by Maria Magdi
